@@ -2,8 +2,6 @@
 
 Secure Server and Client Communication
 
-Oreoluwa Adegbesan NET4005 Assignment 3
-
 Part 1:
 In the first part (secure_server_part1 and secure_client_part1), RSA encryption is used for both encrypting the messages and signing them.
 
